@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in bop.in as a website developer<br>I am looking to collaborate on Realtime backend and database projects <br>I looing for help with Flutter (Dart) Web dev background React Native (JS/TS)<br>I am currently learning cloud platform like gcp, aws , azure <br>ask me about the frontend development 
+I am currently working in bop.in as a website developer<br>I am looking to collaborate on Realtime backend and database projects <br>I looking for help with Flutter (Dart) Web dev background React Native (JS/TS)<br>I am currently learning cloud platform like gcp, aws , azure <br>ask me about the frontend development 
 
 
 ## 🌐 Socials:
