@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👨‍💻 I’m a **Website Developer at BOP Realty Pvt. Ltd. (BOP.in)**, working on production websites, web applications, CRM integrations, HRMS, analytics and automation.
+👨‍💻 I’m a **Software Developer at BOP Realty Pvt. Ltd. (BOP.in)**, working on production websites, web applications, CRM integrations, HRMS, analytics and automation.
 
 🚀 I enjoy building **responsive frontend applications, backend APIs, realtime systems and database-driven platforms**.
 
